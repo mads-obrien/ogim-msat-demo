@@ -1,0 +1,5 @@
+
+**/*.pyc
+data_consolidation/.ipynb_checkpoints/Africa_MiddleEast_GeoPackage-checkpoint.ipynb
+data_integration/output.log
+data_integration/run_integration_scripts_test_individually.bat

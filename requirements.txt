@@ -1,0 +1,9 @@
+List of packages needed to utilize many of the scripts in this repository.
+
+os
+geopandas
+numpy
+matplotlib
+fiona
+tqdm
+pigeon
